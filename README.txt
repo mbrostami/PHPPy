@@ -3,7 +3,6 @@
 *	@author MB Rostami
 *	@copyright 2013 
 *	mb.rostami.h@gmail.com
-*	license GPL
 */
 
 1 - Download portable python 2.7 and place all files inside "Python" folder.
