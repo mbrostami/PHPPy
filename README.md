@@ -17,4 +17,7 @@ Do these steps :
 8. Copy your PHP project files inside "UniServer/www" folder.      
 Now if you run phpmyadmin.pyw with PythonW-Portable.exe you can access to phpmyadmin .     
 At least duble click on Start.bat.      
-If you need to change default URL you should modify "localhost.pyw" and "phpmyadmin.pyw".     
+If you need to change default URL you should modify "localhost.pyw" and "phpmyadmin.pyw".    
+
+     
+[ ]  Prevent running multiple mysql proccess correctly with python.
