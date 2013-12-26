@@ -3,7 +3,7 @@
 
 Run your php project as stand alone executable file. 
  
-Do these steps :
+Do these steps :    
 1. Download portable python 2.7 and place all files inside "Python" folder.
 		[PortablePython2.7.5.1](http://portablepython.com/wiki/PortablePython2.7.5.1/)    
 2. Download UniformServer and place all files in "UniServer" folder.
